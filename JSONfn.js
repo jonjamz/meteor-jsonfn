@@ -27,9 +27,9 @@
 */
 
 // Create a JSON object only if it does not already exist.
-var JSONfn;
-if (!JSONfn) {
-    JSONfn = {};
+// @jonjamz modified to work with Meteor
+if (typeof JSONfn === 'undefined') {
+    this.JSONfn = {};
 }
 
 (function () {
