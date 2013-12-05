@@ -3,7 +3,7 @@
   "description": "JSONfn packaged for Meteor. Stringify and parse wrapped to preserve functions.",
   "homepage": "https://github.com/jonjamz/meteor-jsonfn",
   "author": "Jonathan James",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "git": "https://github.com/jonjamz/meteor-jsonfn.git",
   "packages": {}
 }
